@@ -1,0 +1,14 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "My first chatbot with MS Bot Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Garcia",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.7.0"
+  }
+}
